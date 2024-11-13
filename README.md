@@ -10,7 +10,8 @@ This Python script helps you randomly select a commander from Starcraft 2 and a 
 | **Python**   | Python 3.x                              |
 | **Script File** | This is the Python code you will run |
 
-How to Run the Script
+**How to Run the Script:**
+
 Step 1: Install Python
 
     If you haven't already, download and install Python. 
