@@ -13,7 +13,7 @@ This Python script helps you randomly select a commander from Starcraft 2 and a 
 How to Run the Script
 Step 1: Install Python
 
-    If you haven't already, download and install Python. [Download Python Here!](https://www.python.org/downloads/)
+    If you haven't already, download and install Python. [Download Python Here](https://www.python.org/downloads/)
 
 Step 2: Download or Copy the Script
 
@@ -29,17 +29,12 @@ Step 3: Open Command Line or Terminal or IDE(of your choice)
 Step 4: Navigate to the Script Location
 
     Use the cd command to go to the folder where the script is saved. For example:
-    ```
-    cd path\to\your\folder
-    ```
+        `cd path\to\your\folder`
 
 Step 5: Run the Script
 
     Type the following command and press Enter:
-    ```
-    python starcraft_randomizer.py
-    ```
-
+    `python starcraft_randomizer.py`
 Step 6: Follow the Instructions
 
     The script will ask you to enter a number of random values to generate.
